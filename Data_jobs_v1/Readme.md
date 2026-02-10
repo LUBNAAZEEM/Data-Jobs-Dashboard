@@ -1,6 +1,4 @@
-📊 My Power BI Dashboard Portfolio
 
-Data Nerds!This repository is a collection of Power BI dashboards I’ve developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
 
 # 📊 Data Jobs Dashboard  – Comprehensive Market Exploration
 
